@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Łukasz Mosionek  
 
-<!--
-**lukaszmosionek/lukaszmosionek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Laravel Artisan | 🧙‍♂️ Vue 3 Wizard | 🎨 Tailwind CSS Crafter  
 
-Here are some ideas to get you started:
+I'm a passionate **full-stack web developer** focused on building **clean, modern, and scalable applications** with **Laravel**, **Vue 3**, and **Tailwind CSS**.  
+I love combining backend logic with elegant front-end design to deliver fast, user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- **Frontend:** Vue 3, TypeScript, Vite, Pinia, Tailwind CSS  
+- **Backend:** Laravel, REST APIs, Sanctum, Docker  
+- **DevOps:** Docker Compose, Nginx, CI/CD  
+- **Other tools I enjoy:** GitHub Actions, MySQL, OpenWeatherMap API  
+
+---
+
+### 🛠️ Featured Projects
+- **[mamfachowca.pl](https://mamfachowca.pl/)** — A full-stack service marketplace  
+  - 🔹 Frontend: [mamfachowca_FRONTEND_Vue3](https://github.com/lukaszmosionek/mamfachowca_FRONTEND_Vue3)  
+  - 🔹 Backend: [mamfachowca_BACKEND_LaravelAPI](https://github.com/lukaszmosionek/mamfachowca_BACKEND_LaravelAPI)  
+  - 🔹 Docker Setup: [mamfachowca_Docker](https://github.com/lukaszmosionek/mamfachowca_Docker)  
+
+- **[piorek.house_new](https://github.com/lukaszmosionek/piorek.house_new)** — Real estate website project built with modern Laravel + Vue stack  
+- **[OpenWeatherMapAPI](https://github.com/lukaszmosionek/OpenWeatherMapAPI)** — API integration demo for real-time weather data  
+
+---
+
+### 🧩 Recent Activity
+- 💻 Actively contributing to multiple Laravel + Vue projects  
+- 🧠 Exploring best practices for scalable API design  
+- ⚡ Enhancing UI/UX with Tailwind CSS animations  
+
+---
+
+### 🌐 Find Me Around the Web
+- 💼 [LinkedIn](https://www.linkedin.com/in/lukasz-mosionek)  
+- 🌍 [Portfolio](https://mosioneklukasz.pl/)  
+- 🏗️ [GitHub Profile](https://github.com/lukaszmosionek)  
+
+---
+
+> *“Code should not only work — it should inspire confidence, clarity, and creativity.”*  
+— Łukasz Mosionek
