@@ -21,9 +21,6 @@ I love combining backend logic with elegant front-end design to deliver fast, us
   - 🔹 Backend: [mamfachowca_BACKEND_LaravelAPI](https://github.com/lukaszmosionek/mamfachowca_BACKEND_LaravelAPI)  
   - 🔹 Docker Setup: [mamfachowca_Docker](https://github.com/lukaszmosionek/mamfachowca_Docker)  
 
-- **[piorek.house_new](https://github.com/lukaszmosionek/piorek.house_new)** — Real estate website project built with modern Laravel + Vue stack  
-- **[OpenWeatherMapAPI](https://github.com/lukaszmosionek/OpenWeatherMapAPI)** — API integration demo for real-time weather data  
-
 ---
 
 ### 🧩 Recent Activity
