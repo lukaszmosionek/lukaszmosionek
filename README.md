@@ -9,9 +9,9 @@ I love combining backend logic with elegant front-end design to deliver fast, us
 
 ### 🚀 What I Do
 - **Frontend:** Vue 3, TypeScript, Vite, Pinia, Tailwind CSS  
-- **Backend:** Laravel, REST APIs, Sanctum, Docker  
+- **Backend:** Laravel, REST APIs, Wordpress, Sanctum, Docker  
 - **DevOps:** Docker Compose, Nginx, CI/CD  
-- **Other tools I enjoy:** GitHub Actions, MySQL, OpenWeatherMap API  
+- **Other tools I enjoy:** GitHub Actions, MySQL
 
 ---
 
@@ -36,6 +36,3 @@ I love combining backend logic with elegant front-end design to deliver fast, us
 - 🏗️ [GitHub Profile](https://github.com/lukaszmosionek)  
 
 ---
-
-> *“Code should not only work — it should inspire confidence, clarity, and creativity.”*  
-— Łukasz Mosionek
